@@ -1,0 +1,3 @@
+rootProject.name='Purple'
+include ':app'
+include ':shield'
